@@ -6,7 +6,7 @@
 - Pathfinding Visualizer is an interactive web app built with React and Vite that visualizes popular pathfinding algorithms. It allows users to explore how algorithms like Dijkstra's, A*, and Breadth-First Search find paths on a grid, making the concepts more tangible and engaging through dynamic visualizations.
 
 **Technologies:**
-- Languages: JavaScript and TypeScript
+- Languages: TypeScript and JavaScript
 - Developer Tools: Vite
 - Libraries: React
 - Styling Technologies: CSS
